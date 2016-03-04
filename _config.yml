@@ -1,6 +1,6 @@
 name: barryisett
 favicon: null
-layout_spectrum: 0.4270727541297674
+layout_spectrum: 0.61008
 typography_spectrum: 0.8743446674197912
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.004643769236281514
-  lightness: 0.00625485647469759
-  saturation: 0.04026576527394354
+    - '#000000'
+    - '#ff0000'
+    - '#fdfdfd'
+    - '#c0c4c7'
+    - '#7a7a7a'
+  brandStrength: 0.6875
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5390638085082173
 purpose: []
