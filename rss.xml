@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[barryisett]]></title>
         <description><![CDATA[barryisett]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/barryisett/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 11:14:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 11:46:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/barryisett/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>At the 2016 Lehigh Valley Engineering Council's annual banquet, BIA President, Kevin Campbell, PE, LEED AP, will be recognized as Engineer of the Year.</p>]]></description>
-            <link>undefined0ca9d361-90ab-4464-8c45-32264fa6f506/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/760e2dd4-f0e0-4593-8f13-8471c3cd7174.jpg">]]></description>
+            <link>https://thegrid.ai/barryisett/0ca9d361-90ab-4464-8c45-32264fa6f506/index.html</link>
             <guid isPermaLink="false">0ca9d361-90ab-4464-8c45-32264fa6f506</guid>
-            <pubDate>Fri, 04 Mar 2016 11:14:32 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 11:46:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
