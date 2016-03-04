@@ -1,4 +1,4 @@
-name: barryisett
+name: barry isett
 favicon: null
 layout_spectrum: 0.61008
 typography_spectrum: 0.35637
@@ -22,7 +22,7 @@ color:
     - '#fdfdfd'
     - '#c0c4c7'
     - '#7a7a7a'
-  brandStrength: 0.6875
+  brandStrength: 0.75
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5390638085082173
